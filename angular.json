@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AppCorreo"
+    }
+  },
+  "defaultProject": "AppCorreo",
+  "cli": {
+    "analytics": "0b8c10db-0b6d-42e0-b503-f7e31b6bfe68"
+  }
 }
